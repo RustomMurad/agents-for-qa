@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+venv/
+
+# VS Code specific files
+.vscode/
+
+# Other common Python ignore patterns
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
