@@ -14,3 +14,6 @@ __pycache__/
 .env
 .env.*
 *.pdf
+
+# Other
+qa_db/
